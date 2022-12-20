@@ -1,0 +1,30 @@
+.row{
+
+    padding: 20px;
+    
+    }
+    
+    div{
+    
+    background-color: rgba(221, 200, 220, 0.226);
+    
+    }
+    
+    h2,h3{
+    
+        display: inline;
+      
+    
+    }
+    
+    #formacion{
+    
+        padding: 50px;
+    }
+    /*separacion de titulo con los años*/
+    
+    h3{
+        padding: 10px;
+    }
+
+    
